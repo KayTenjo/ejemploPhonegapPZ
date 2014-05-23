@@ -1,0 +1,6 @@
+plugins/
+platforms/
+merges/
+hooks
+C/
+.cordova/
